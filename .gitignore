@@ -1,0 +1,11 @@
+# Node artifact files
+node_modules/
+dist/
+
+# cypress Report
+cypress/reports
+cypress/videos
+cypress/screenshots
+
+package-lock.json
+*.log
